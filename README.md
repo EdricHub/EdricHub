@@ -1,5 +1,4 @@
 <h1>Hello, I'm Edric! <br/><a href="https://github.com/EdricHub">Software Engineer Intern</a></h1>
-[View my resume](https://github.com/EdricHub/Resume/blob/main/SDResume.docx-3.pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
