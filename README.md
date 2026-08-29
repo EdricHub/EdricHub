@@ -1,17 +1,13 @@
 <h1>Hello, I'm Edric! <br/><a href="https://github.com/EdricHub">Software Engineer Intern</a></h1>
+[Resume](https://docs.google.com/document/d/1ia_lVvLQvUFHFB9QmWB7ogfS3RXVyAbi/edit?usp=sharing&ouid=115514006789796442302&rtpof=true&sd=true)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Type Speed Tester</b>
-  - [Praciting DS & Algos in Python](https://github.com/EdricHub)
+  - [Test your typing speed!](https://github.com/EdricHub/TypeSpeedTest)
 - <b>Portfolio Website</b>
-  - [Image Analysis Middleware](https://github.com/EdricHub) <b><i>(Potentially NSFW)</b></i>
+  - [Check out my website!](https://github.com/EdricHub/PortfolioWebsite)
 - <b>Text To Morse Code Generator</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/EdricHub)
-  - [JWipe (Disk Wiping Utility)](https://github.com/EdricHub)
-  - [Active Directory Bulk User Creation](https://github.com/EdricHub)
-  - [FIM (File Integrity Monitor)](https://github.com/EdricHub)
+  - [Generate or decode morse code](https://github.com/EdricHub/TextToMorseCode)
 - <b>TicTacToe</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/EdricHub)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/EdricHub)
-  - [Keylogger with Email Capability](https://github.com/EdricHub)
+  - [Play TicTacToe with yourself or a friend!](https://github.com/EdricHub/TicTacToe)
