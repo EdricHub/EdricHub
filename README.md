@@ -3,6 +3,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Resume</b>
+  - [View my resume](https://github.com/EdricHub/Resume/blob/main/SDResume.docx-3.pdf)
 - <b>Type Speed Tester</b>
   - [Test your typing speed!](https://github.com/EdricHub/TypeSpeedTest)
 - <b>Portfolio Website</b>
